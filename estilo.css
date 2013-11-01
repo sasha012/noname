@@ -1,0 +1,51 @@
+body {
+width: 85%;
+margin-left:auto !important;
+margin-right:auto !important;
+}
+header {
+  background-color: #000000;
+    height: 27%;
+    overflow: hidden;
+}
+
+.imagen { 
+   float: right;
+    margin-top: -5%;
+    width: 17%;
+}
+
+
+
+div {
+ background-color: #FFFF00;
+    height: 535px;
+}
+
+
+footer {
+background-color: #000000;
+    height: 115px;
+}
+
+h1 { 
+color: white;  font-family: verdana !important;
+}
+p {
+color: grey; font-family: verdana;
+}
+.formulario {
+    background-color: #FFFFFF;
+    margin: 0 auto;
+    width: 400px;
+	text-align: center;
+}
+
+.formulario input button {
+	
+}
+
+
+.contenido {
+
+}
